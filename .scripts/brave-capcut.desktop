@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Brave CapCut Mode
+Comment=Jalankan Brave untuk CapCut (tanpa flag berat)
+Exec=/home/$(whoami)/.scripts/brave-capcut.sh
+Icon=web-browser
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;
+StartupNotify=true
