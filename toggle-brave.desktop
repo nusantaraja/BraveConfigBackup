@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Toggle Brave Mode
-Comment=Beralih antara Brave Lite dan Brave CapCut
-Exec=/home/ICS/.scripts/toggle-brave-mode.sh
-Icon=/usr/local/share/icons/hicolor/256x256/apps/brave-browser.png
-Terminal=false
-Type=Application
-Categories=Network;WebBrowser;
-StartupNotify=true

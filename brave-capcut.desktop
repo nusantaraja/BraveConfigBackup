@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Brave CapCut Mode
-Comment=Jalankan Brave tanpa optimasi untuk CapCut
-Exec=/home/ICS/.scripts/brave-capcut.sh
-Icon=/usr/local/share/icons/hicolor/256x256/apps/brave-browser.png
-Terminal=false
-Type=Application
-Categories=Network;WebBrowser;
-StartupNotify=true
