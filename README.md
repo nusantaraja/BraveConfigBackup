@@ -7,9 +7,9 @@
 
 ## 🧷 Status Repo
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.txt)    
-[![Last Updated](https://img.shields.io/github/last-commit/nusantaraja/BraveConfigBackup)](https://github.com/nusantaraja/BraveConfigBackup/commits/main)   
-[![Repo Size](https://img.shields.io/github/repo-size/nusantaraja/BraveConfigBackup)]()   
+[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE.txt) 
+[![Last Updated](https://img.shields.io/github/last-commit/nusantaraja/BraveConfigBackup)](https://github.com/nusantaraja/BraveConfigBackup/commits/main) 
+[![Repo Size](https://img.shields.io/github/repo-size/nusantaraja/BraveConfigBackup)]() 
 
 ---
 
